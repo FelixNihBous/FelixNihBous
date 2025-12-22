@@ -9,6 +9,7 @@ jobs:
   update-readme:
     name: Update WakaTime stats
     runs-on: ubuntu-latest
+    environment: WAKATIME_API_KEY
 
     steps:
       - uses: actions/checkout@v4
