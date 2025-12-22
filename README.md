@@ -10,8 +10,6 @@
 ## 🚀 About Me
 - 💻 Frontend-focused developer passionate about modern web technologies  
 - ⚛️ Working with **Next.js & React**
-- 🐧 Comfortable in **Linux** environments  
-- 🎨 Interested in **UI/UX & design systems**
 - ⚡ Always learning & improving
 
 ---
