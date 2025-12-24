@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 - 💻 Frontend-focused developer passionate about modern web technologies  
-- ⚛️ Working with **Next.js & React**
+- ⚛️ Working with **Next.js**
 - ⚡ Always learning & improving
 
 ---
