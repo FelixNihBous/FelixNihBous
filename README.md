@@ -9,7 +9,6 @@
 
 ## 🚀 About Me
 - 💻 Frontend-focused developer passionate about modern web technologies  
-- ⚛️ Working with **Next.js**
 - ⚡ Always learning & improving
 
 ---
@@ -23,12 +22,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,linux,figma,vscode" />
 </p>
-
----
-
-## 📊 Weekly Development Breakdown
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ---
 
